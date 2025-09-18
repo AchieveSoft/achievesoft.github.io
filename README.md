@@ -1,1 +1,0 @@
-this repository keep company web static file
